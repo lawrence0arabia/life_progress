@@ -13,4 +13,4 @@ Features:
 
 Based on average Australian male life expectancy of 83.64 years, but can be changed easily in .py file.
 
-######*This script cannot predict the future, if you die earlier than expected the developer is not liable in any way.*
+###### *This script cannot predict the future, if you die earlier than expected the developer is not liable in any way.*
