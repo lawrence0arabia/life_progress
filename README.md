@@ -11,6 +11,6 @@ Features:
 - An estimate of how many days you have left to live
 - A printout of one red circle for every day you have lived, and one green circle for every day you're expected to live
 
-Based on average Australian male life expectancy of 83.64 years, but can be changed easily in .py file.
+###### Based on average Australian male life expectancy of 83.64 years, but can be changed easily in .py file.
 
 ###### *This script cannot predict the future, if you die earlier than expected the developer is not liable in any way.*
