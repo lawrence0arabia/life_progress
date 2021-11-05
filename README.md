@@ -9,7 +9,7 @@ Features:
 - Your life progress calculated as a percentage
 - Existential dread
 - An estimate of how many days you have left to live
-- A printout of one red circle for every day you have lived, and one green circle for every day you're expected to live
+- A printout of one red circle for every day you have lived, and one green circle for every day you're expected to live (separated into weeks)
 
 ###### Based on average Australian male life expectancy of 83.64 years, but can be changed easily in .py file.
 
