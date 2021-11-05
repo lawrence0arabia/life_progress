@@ -7,8 +7,8 @@ Features:
 - Fancy ASCII title totally not just taken from an online generator
 - Your life progress visualised as a progress bar
 - Your life progress calculated as a percentage
-- An estimate of how many days you have left to live
 - Existential dread
+- An estimate of how many days you have left to live
 - A printout of one red circle for every day you have lived, and one green circle for every day you're expected to live
 
 Based on average Australian male life expectancy of 83.64 years, but can be changed easily in .py file.
